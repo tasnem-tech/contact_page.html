@@ -1,182 +1,113 @@
 <div align="center">
 
-# 🌐 Personal Portfolio Website
+# 🌐 Tasnem Portfolio
 
 ### Modern Responsive Developer Portfolio
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Python+Developer;Data+Analyst;Machine+Learning+Learner;Building+Professional+Projects" />
+
+<br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
-
-</p>
-
-### 🚀 A clean, responsive portfolio showcasing projects, skills, and experience.
+<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
 
 </div>
 
 ---
 
-# 🌍 Overview
+## 📌 Overview
 
-This project is a modern personal portfolio website designed to present professional experience, technical skills, projects, certifications, and contact information in an elegant and responsive layout.
+This is my personal portfolio website built to showcase my projects, technical skills, education, and career journey.
 
-The website is optimized for desktop, tablet, and mobile devices.
+The website is designed to be clean, responsive, and professional for recruiters and employers.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 | Feature | Description |
-|----------|-------------|
-| 🏠 Landing Page | Professional hero section |
-| 👨‍💻 About Me | Personal introduction |
-| 💼 Projects | Portfolio showcase |
+|--------|-------------|
+| 🏠 Home Page | Professional introduction |
+| 👩‍💻 About Me | Background and career summary |
 | 🛠 Skills | Technical skills section |
-| 📱 Responsive Design | Mobile-friendly layout |
-| 📞 Contact Form | Easy communication |
-| 🌙 Modern UI | Clean and minimal interface |
+| 💼 Projects | Portfolio project showcase |
+| 📞 Contact Page | Contact information |
+| 📱 Responsive Design | Works on mobile, tablet, and desktop |
 
 ---
 
-# 📸 Website Preview
-
-<div align="center">
-
-### Home Page
-
-*(Add screenshot here)*
-
-</div>
-
----
-
-# 🏗 Website Structure
-
-```text
-Home
-   │
-   ├── About
-   ├── Skills
-   ├── Projects
-   ├── Experience
-   ├── Contact
-   └── Footer
-```
-
----
-
-# 💻 Technology Stack
+## 🛠 Tech Stack
 
 | Technology | Purpose |
-|------------|----------|
-| HTML5 | Website Structure |
-| CSS3 | Styling |
+|----------|----------|
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
 | JavaScript | Interactivity |
 | Font Awesome | Icons |
-| Google Fonts | Typography |
+| GitHub Pages | Deployment |
 
 ---
 
-# 📁 Project Structure
+## 📂 Project Structure
 
 ```text
-📦 portfolio-website
-
+portfolio-website/
+│
 ├── index.html
-├── style.css
-├── script.js
-│
-├── assets
-│   ├── images
-│   ├── icons
-│   └── resume.pdf
-│
-├── screenshots
-│
-└── README.md
+├── contact_page.html
+├── README.md
+└── assets/
 ```
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Live Website
 
-Clone the repository
-
-```bash
-git clone https://github.com/tasnem-tech/portfolio-website.git
-```
-
-Open the project
-
-```bash
-cd portfolio-website
-```
-
-Run locally
-
-Simply open:
+Add your live website link here after publishing with GitHub Pages.
 
 ```text
-index.html
+https://tasnem-tech.github.io/contact_page.html
 ```
 
-or use VS Code Live Server.
-
 ---
 
-# 📱 Responsive Design
+## 📈 Skills Demonstrated
 
-✅ Desktop
-
-✅ Tablet
-
-✅ Mobile
-
----
-
-# 🎯 Skills Demonstrated
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI/UX Principles
 - Frontend Development
-- Portfolio Design
+- Responsive Web Design
+- HTML & CSS
+- JavaScript Basics
+- GitHub Workflow
+- Portfolio Presentation
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
-- Dark/Light Mode
-- Blog Section
-- Project Filtering
-- Contact Form Backend
-- Animations
-- Multi-language Support
+- Add animations
+- Add project cards
+- Add downloadable CV
+- Add dark/light mode
+- Improve mobile design
+- Add contact form backend
 
 ---
 
-# 👨‍💻 Author
+## 👩‍💻 Author
 
-## **Tasnem Islam Prome**
+**Tasnem Islam Prome**
 
-### Frontend Developer • Python Developer • Data Analyst
+Frontend Developer | Python Developer | Data Analyst
 
-<p align="center">
-<a href="https://github.com/tasnem-tech">
-<img src="https://img.shields.io/badge/GitHub-@tasnem--tech-black?style=for-the-badge&logo=github">
-</a>
-</p>
+GitHub: [tasnem-tech](https://github.com/tasnem-tech)
 
 ---
 
 <div align="center">
 
-⭐ **If you like this portfolio, consider giving it a Star!**
+⭐ Thank you for visiting my portfolio repository.
 
 </div>
