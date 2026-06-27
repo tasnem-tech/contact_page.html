@@ -1,33 +1,182 @@
-# 👋 Hello developer!
-This is one of the many templates available from W3schools. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp). 🦄
+<div align="center">
 
+# 🌐 Personal Portfolio Website
 
-## 🏗 What's next?
-Customize this template to make it your own. Remember to make your layout responsive - if you want your site to look good on smaller screens like mobile. 
+### Modern Responsive Developer Portfolio
 
-## 🎨 Where to find everything
+<p>
 
-- **External style sheet:** The template you chose is built with [W3CSS](https://www.w3schools.com/w3css/default.asp), placed in an external style sheet. You can either replace that style sheet - or keep it simple and leave it in.  
-	[Go to tutorial about W3CSS](https://www.w3schools.com/w3css/default.asp)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
 
-- **Fonts:** Explore the options from **Google fonts** and add your favorite.  
-	[Go to tutorial about fonts](https://www.w3schools.com/w3css/w3css_fonts_google.asp)
+</p>
 
-- **Icons:** Icons are from **Fontawesome**. You can reuse those and choose other free icons from their free library.  
-	[Go to tutorial about Fontawesome](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+### 🚀 A clean, responsive portfolio showcasing projects, skills, and experience.
 
-- **Images:** Replace the images by uploading your own and updating their URLs.  
-	[Go to article about how to upload files](https://support.w3schools.com/hc/en-gb/articles/4410414928017)
+</div>
 
-> ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
+---
 
+# 🌍 Overview
 
-### ⛑ Need support?
-[Join our Discord community](https://discord.gg/6Z7UaRbUQM) and ask questions in the **#spaces-general** channel.
+This project is a modern personal portfolio website designed to present professional experience, technical skills, projects, certifications, and contact information in an elegant and responsive layout.
 
+The website is optimized for desktop, tablet, and mobile devices.
 
-### 🚀 Upgrade to Pro
-[Upgrade your account](https://billing.w3schools.com/products/spaces) to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
+---
 
+# ✨ Features
 
-Happy learning!
+| Feature | Description |
+|----------|-------------|
+| 🏠 Landing Page | Professional hero section |
+| 👨‍💻 About Me | Personal introduction |
+| 💼 Projects | Portfolio showcase |
+| 🛠 Skills | Technical skills section |
+| 📱 Responsive Design | Mobile-friendly layout |
+| 📞 Contact Form | Easy communication |
+| 🌙 Modern UI | Clean and minimal interface |
+
+---
+
+# 📸 Website Preview
+
+<div align="center">
+
+### Home Page
+
+*(Add screenshot here)*
+
+</div>
+
+---
+
+# 🏗 Website Structure
+
+```text
+Home
+   │
+   ├── About
+   ├── Skills
+   ├── Projects
+   ├── Experience
+   ├── Contact
+   └── Footer
+```
+
+---
+
+# 💻 Technology Stack
+
+| Technology | Purpose |
+|------------|----------|
+| HTML5 | Website Structure |
+| CSS3 | Styling |
+| JavaScript | Interactivity |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
+
+---
+
+# 📁 Project Structure
+
+```text
+📦 portfolio-website
+
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets
+│   ├── images
+│   ├── icons
+│   └── resume.pdf
+│
+├── screenshots
+│
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/tasnem-tech/portfolio-website.git
+```
+
+Open the project
+
+```bash
+cd portfolio-website
+```
+
+Run locally
+
+Simply open:
+
+```text
+index.html
+```
+
+or use VS Code Live Server.
+
+---
+
+# 📱 Responsive Design
+
+✅ Desktop
+
+✅ Tablet
+
+✅ Mobile
+
+---
+
+# 🎯 Skills Demonstrated
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- UI/UX Principles
+- Frontend Development
+- Portfolio Design
+
+---
+
+# 🔮 Future Improvements
+
+- Dark/Light Mode
+- Blog Section
+- Project Filtering
+- Contact Form Backend
+- Animations
+- Multi-language Support
+
+---
+
+# 👨‍💻 Author
+
+## **Tasnem Islam Prome**
+
+### Frontend Developer • Python Developer • Data Analyst
+
+<p align="center">
+<a href="https://github.com/tasnem-tech">
+<img src="https://img.shields.io/badge/GitHub-@tasnem--tech-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+⭐ **If you like this portfolio, consider giving it a Star!**
+
+</div>
